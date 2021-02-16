@@ -1,0 +1,238 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.logo-right{
+    margin-top: 30px;
+}
+.nav-item{
+    margin-top: 20px;
+ font-style: inherit;
+    font-size: 1rem;
+    /* margin-left: 280px; */
+}
+.navbar-items{
+    margin-left: 300px;
+    margin-inline: 20px;
+}
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    margin-left: 319px;
+}
+.date-one{
+    margin-left: 322px;
+    font-style: oblique;
+}
+.img{
+    margin-left: 154px;
+    height: 400px;
+    width: 800px;
+}
+.blog{
+    margin-left: 154px;
+    margin-right: 115px;
+}
+.blog-next{
+    border: 1px black solid;
+    margin-left: 593px;
+    font-size: 1.7rem;
+    font-style: italic;
+}
+
+.nature{
+    margin-top: 120px;
+    font-style: inherit;
+    margin-left: 287px;
+}
+.natuu{
+    margin-top: 15px;
+    margin-left: 248px;
+}
+date{
+    margin-left: 700px;
+}
+.img-nature{
+    margin-left: 90px;
+    height: 400px;
+    width: 800px;
+}
+.content-blog{
+    margin-top: 20px;
+    margin-left: 90px;
+    margin-right: 81px;
+}
+.blog-next-one{
+    border: 1px black solid;
+    margin-left: 430px;
+    margin-bottom: 15px;
+    font-size: 1.7rem;
+    font-style: italic;
+    
+}
+.photography{
+    margin-top: 120px;
+    font-style: inherit;
+    margin-left: 240px;
+}
+.fashion{
+    margin-top: 15px;
+    margin-left: 216px;
+}
+.date-tt{
+    margin-left: 245px;
+}
+.img-item{
+    margin-left: 80px;
+    height: 400px;
+    width: 800px;
+}
+.content-blog-one{
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 78px;
+}
+.next-button{
+    border: 1px black solid;
+    margin-left: 442px;
+    font-size: 1.7rem;
+    font-style: italic;
+}
+/*footer*/
+.logo-item{
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.socialite{
+    margin-inline: 100px;
+    font-size: 1.5rem;
+}
+.copy{
+     margin-left: 370px;
+}
+.paginationn{
+    margin-bottom: 50px;
+    margin-left: 440px;
+}
+.hr-width{
+    width: 100%;
+    /* margin-left: 40px; */
+}
+.write-condition{
+    font-size: 3rem;
+    margin-left: 453px;
+    margin-top: 50px;
+}
+.sm-condtion{
+    margin-left: 486px;
+    margin-top: 20px;
+    font-style: italic;
+    margin-bottom: 70px;
+}
+.heading{
+    margin-left: 87px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+.paragraph{
+    margin-left: 175px;
+    margin-right: 157px;
+}
+.heading1{
+    margin-left: 170px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+.paragraph1{
+    margin-left: 175px;
+    margin-right: 157px;
+}
+.heading2{
+    margin-left: 170px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+.paragraph2{
+    margin-left: 175px;
+    margin-right: 157px;
+}
+.heading3{
+    margin-left: 170px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+.paragraph3{
+    margin-left: 175px;
+    margin-right: 157px;
+    margin-bottom: 50px;
+}
+
+/* contact */
+.map{
+    margin-top: 50px;
+}
+
+.embded-map{
+    margin-left: 70px;
+}
+.form-class{
+
+        border: 1px rgba(241, 33, 67, 0.781) solid;
+        /* border-block-start: 300px; */
+        margin-top: 52px;
+        text-align: center;
+        width: 539px;
+        height: 452px;
+        margin-left: -16px;
+        margin-right: auto;
+}
+.massage-group{
+    margin-top: 90px;
+}
+.massag-item{
+    height: 40px;
+    padding: 23px;
+    width: 400px;
+    margin-left: 12px;
+    margin-right: 10px;
+    border-radius: 6px;
+}
+.massage-items{
+    height: 144px;
+    width: 398px;
+    margin-top: 27px;
+    border-radius: 6px rgb(236, 109, 209) solid ;
+}
+.btn{
+    height: 40px;
+    width: 200px;
+}
+/* collaps */
+.collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 12px;
+    margin-left: 466px;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  
+  .active, .collapsible:hover {
+    background-color: #555;
+  }
+  
+  .content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+  }
+
+  .text-p{
+      margin-left: 200px;
+  }
